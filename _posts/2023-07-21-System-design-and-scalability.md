@@ -4,7 +4,7 @@ title: Алгоритм решения задач по System Design
 ---
 
 Здравствуйте!
-В этом после - обзор  решения задач по System Design, приведенного в главе "System design 
+В этом посте - обзор  решения задач по System Design, приведенного в главе "System design 
 and scalability" из книги **"Cracking the coding interview"**.
 
 
