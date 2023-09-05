@@ -16,3 +16,7 @@ permalink: /about/
 Связаться со мной:
 
 [darya.d.chernikova@gmail.com](mailto:darya.d.chernikova@gmail.com)
+
+Этот блог также есть в:
+- [Телеграме](https://t.me/+1yDPIJcF2PUxNDRi)
+- [Вконтакте](https://vk.com/public222136703)
