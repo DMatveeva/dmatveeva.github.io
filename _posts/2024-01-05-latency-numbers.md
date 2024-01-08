@@ -55,6 +55,7 @@ Round trip в пределах одного датацентра - переда�
 [https://gist.github.com/hellerbarde/2843375?permalink_comment_id=1896153#gistcomment-1896153
 ]([https://gist.github.com/GLMeece/b00c9c97a06a957af7426b1be5bc8be6](https://gist.github.com/GLMeece/b00c9c97a06a957af7426b1be5bc8be6)
 )
+
 И в завершение, игра на понимание скорости исполнения кода:
 
 [https://computers-are-fast.github.io/]([https://gist.github.com/GLMeece/b00c9c97a06a957af7426b1be5bc8be6](https://gist.github.com/GLMeece/b00c9c97a06a957af7426b1be5bc8be6)
