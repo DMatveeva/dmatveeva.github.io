@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ключевые концепции
+categories: Теория
 ---
 
 В этом посте продолжим обзор главы "System Design and Scalability" из книги "Cracking the coding interview". На 

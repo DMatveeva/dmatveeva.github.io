@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Алгоритм решения задач по System Design
+categories: Теория
 ---
 
 Здравствуйте!

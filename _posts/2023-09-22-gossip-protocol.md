@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Протокол gossip
+categories: Теория
 ---
 
 В этом посте - поверхностный обзор протокола Gossip.
