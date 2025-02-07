@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Сдаем нормативы с паттерном Visitor  
+title: Паттерн Visitor  
 categories: Теория
 ---
 
